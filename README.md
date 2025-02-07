@@ -1,16 +1,10 @@
 # Cylinder Volume Calculator
 
-This program calculates the volume of a cylinder based on user-provided radius and height values. It also provides the option to convert the volume into different units.
+This C project is designed to help you calculate the volume of a cylinder and convert it into different units. The way it works is by taking the radius and height values you input, and then calculating the volume using the formula \( V = \pi r^2 h \). Afterward, the program provides the option to convert the calculated volume into units like liters, milliliters, cubic inches, cubic feet, or gallons. You can perform multiple calculations in one session, and the program will display the result with four decimal places.
 
-- **Volume Calculation**: Computes the volume using the formula \( V = \pi r^2 h \).
-- **Unit Conversion**: Converts the calculated volume into liters, milliliters, cubic inches, cubic feet, or gallons.
-- **Multiple Calculations**: Allows users to perform multiple volume calculations in a single session.
-- **User Input Handling**: Accepts radius and height values interactively, with an exit option.
-- **Precision Display**: Outputs volume with four decimal places.
-- **Looped Execution**: Runs continuously based on user-defined calculations.
-- **Termination Message**: Notifies users when the program ends.
+I created this project to streamline volume calculations and unit conversions. Inspired by the need for quick, accurate measurements in various fields, I wanted to provide a simple, interactive tool that could help with repetitive calculations. This project makes it easy for you to quickly calculate and convert cylinder volumes in just a few steps.
 
-## Example Usage
+## Example Output
 ```
 Enter the number of calculations: 1
 
